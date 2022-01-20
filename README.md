@@ -1,4 +1,2 @@
 # EcoHydroEng
-EcoHydroEng Group At Oregon State University
-
-Research group lead by Dr. Stephen Good
+EcoHydroEng Group At Oregon State University, lead by Dr. Stephen Good
